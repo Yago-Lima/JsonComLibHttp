@@ -10,7 +10,7 @@
         "nome": "Maria Oliveira",
         "idade": 19,
         "notas": [6.8, 7.3, 7.5],
-        "frequencia": [1, 0, 1, 1, 1, 0, 1, 1, 1, 1]
+        "frequencia": [1, 0, 0, 0, 0, 0, 0, 1, 1, 1]
       },
       {
         "nome": "Pedro Santos",
@@ -27,7 +27,7 @@
       {
         "nome": "Lucas Souza",
         "idade": 20,
-        "notas": [7.0, 7.5, 8.0],
+        "notas": [0.0, 7.5, 3.0],
         "frequencia": [1, 0, 1, 1, 1, 1, 1, 1, 1, 1]
       }
     ]
